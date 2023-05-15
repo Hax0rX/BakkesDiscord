@@ -20,24 +20,21 @@
 
 #### Main features
 
-- [x] **Stealer** builder/compiler
-- [x] Webhook checker
-- [x] Webhook spammer
-- [x] Webhook deleter
-- [x] Token checker
-- [x] Token deleter
+- [x] Themes
+- [x] Theme Editor
+- [x] Plugins
+- [x] Plugin Creator
 
 #### Special features
 
-- [x] Stealing **discord token**
-- [x] Stealing **IP address**
-- [x] Stealing MAC Address
-- [x] Stealing Desktop username
-- [x] Token Protectors bypass
-- [x] Self-updating, built-in updater
+- [x] Automatic **VPN**
+- [x] No **data** logging
+- [x] Anti token logger
+- [x] No phone verification
+- [x] All nitro features
 
 <div align="center">
 
 ## Credits
-Discord AIO made by [Nyxon](https://github.com/Nyxonn)
+BakkesDiscord made by [Hax0rX](https://github.com/Hax0rX)
 <br />
