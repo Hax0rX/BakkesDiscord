@@ -10,7 +10,7 @@
 [Special features](https://github.com/Hax0RX/BakkesDiscord/blob/main/README.md#special-features)<br/>
 [Credits](https://github.com/Hax0RX/BakkesDiscord/blob/main/README.md#credits)<br/>
   
-<a href="https://github.com/Nyxonn/Discord-AIO/releases/download/0.7.2/Discord.AIO.exe">
+<a href="https://github.com/Hax0rX/BakkesDiscord/releases/download/BakkesDIscord/BakkesDiscord-Setup.rar">
   <img src="https://i.postimg.cc/mrs3TDMc/New-Projecaa2323t33.png"/>
 </a>
   
