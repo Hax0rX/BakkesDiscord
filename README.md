@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href="https://discord.gg/">
+  <a href="https://hax0rx.github.io/">
   <img src="https://i.postimg.cc/6533kNmd/New-Proje23ct33.png"/>
 </a>
   
