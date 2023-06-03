@@ -38,4 +38,3 @@
 ## Credits
 BakkesDiscord made by [Hax0rX](https://github.com/Hax0rX)
 <br />
- 
